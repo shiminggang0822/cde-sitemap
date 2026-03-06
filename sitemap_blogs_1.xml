@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://cdeliftparts.com/blogs/aerial-lift</loc>
+    <lastmod>2025-11-05T22:50:02-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/blogs/jlg-parts-manuals</loc>
+    <lastmod>2025-11-05T21:35:44-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/blogs/aerial-lift/what-is-a-boom-lift</loc>
+    <lastmod>2025-11-05T20:39:59-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/articles/what-is-a-boom-lift_600_ef9ffe7d-0bd0-4187-b57a-1ee1b01cb402.webp?v=1762403999</image:loc>
+      <image:title>What is a Boom Lift?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/blogs/aerial-lift/what-is-a-scissor-lifts</loc>
+    <lastmod>2025-10-21T22:52:52-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/articles/what-is-a-scissor-lift_041c05b5-5c48-4001-a3b5-0095a512db0f.webp?v=1761112372</image:loc>
+      <image:title>What is a Scissor Lift?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/blogs/aerial-lift/how-to-operate-a-boom-lift-safely</loc>
+    <lastmod>2025-11-05T22:50:02-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/articles/how-to-operate-a-boom-lift.webp?v=1762411802</image:loc>
+      <image:title>How to Operate a Boom Lift Safely?</image:title>
+      <image:caption>how-to-operate-a-boom-lift</image:caption>
+    </image:image>
+  </url>
+</urlset>

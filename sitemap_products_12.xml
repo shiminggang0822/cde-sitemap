@@ -1,513 +1,1143 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://cdeliftparts.com/products/haulotte-ost10pht00</loc>
-    <lastmod>2026-02-23T13:21:01.000Z</lastmod>
+    <loc>https://cdeliftparts.com/products/haulotte-oa15ipaic00</loc>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OA15IPAIC00_d1e84590-e353-4011-ac35-52ba87db96c3.jpg?v=1759155367</image:loc>
+      <image:title>OA15IPAIC00 Compressed Air Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oa15ipfeu00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OA15IPFEU00 Flashing Light Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oa15ippht00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OA15IPPHT00_823883c0-1d93-4180-985b-f74496e8ebd0.png?v=1759131595</image:loc>
+      <image:title>OA15IPPHT00 Option Working Light | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oa16ntalf00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OA16NTALF00 Option Flash Avertiser | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oa16ntpht00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OA16NTPHT00_5d25c117-85bb-4728-8e88-13bed45289a1.jpg?v=1759120029</image:loc>
+      <image:title>OA16NTPHT00 Working Light H6 Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oa16pafr00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OA16PAFR00 Power Supply Lifting Device Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oa20pair00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OA20PAIR00_b71757b7-5940-49e5-af09-7ca31f4a7ced.jpg?v=1759154462</image:loc>
+      <image:title>OA20PAIR00 Compressed Air Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oa20pcpp00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OA20PCPP00_b9c55bee-7335-467d-ae26-cbf60a04c344.jpg?v=1759157437</image:loc>
+      <image:title>OA20PCPP00 Protection | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oa20ppht00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OA20PPHT00 Work Headlight | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oa32pcpp00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OA32PCPP00_babd009e-bd10-44a3-aab7-ffbd80424906.png?v=1759154185</image:loc>
+      <image:title>OA32PCPP00 Protection | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oa32pgyr00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OA32PGYR00_4804584d-c193-4b1a-9ab5-c546608d8073.jpg?v=1759110932</image:loc>
+      <image:title>OA32PGYR00 Beacon | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ohtl4017ftc00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OHTL4017FTC00_7c250fd0-3fd7-40e4-bd90-8ef9e3d74bd9.jpg?v=1759154473</image:loc>
+      <image:title>OHTL4017FTC00 Light | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ohtl4017kha00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OHTL4017KHA00_b087f560-22c3-48ee-bd61-29af11917a1a.jpg?v=1759156912</image:loc>
+      <image:title>OHTL4017KHA00 Hydraulic Kit | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ohtl4017tpmt00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OHTL4017TPMT00 Cover | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-olt221515</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OLT221515 Deutz Engine Heater (For Cold Start Kit) | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oo12sdgyr01</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OO12SDGYR01_507f8d13-f74d-462b-b0aa-14808e693584.jpg?v=1759153080</image:loc>
+      <image:title>OO12SDGYR01 Beacon H12/15/18 | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ooa12pxgyr00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OOA12PXGYR00 Beacon Option Ha12Px | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ooa15ipfeu00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OOA15IPFEU00_eb540589-0794-4870-8281-45bbb3e459c8.png?v=1759153047</image:loc>
+      <image:title>OOA15IPFEU00 Flashing Light Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ooa16ntgyr00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OOA16NTGYR00_abe68401-b6dc-428b-b53c-27bcf59c639d.jpg?v=1759120156</image:loc>
+      <image:title>OOA16NTGYR00 Beacon Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ooa20pgyr00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OOA20PGYR00_1e465d29-bc96-41ec-a1d2-46b61596f912.jpg?v=1759127137</image:loc>
+      <image:title>OOA20PGYR00 Beacon Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oom800feu00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OOM800FEU00 Star Flashing Light Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oopt6pht00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OOPT6PHT00_cc5d509d-cd3b-4064-9223-ed1d7753c098.jpg?v=1759110989</image:loc>
+      <image:title>OOPT6PHT00 Work-Lights Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-oosta6afr00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OOSTA6AFR00 Power Supply Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ost10aal00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OST10AAL00_1e19f9ee-dde6-4938-b710-63c3bdeff441.png?v=1759153342</image:loc>
+      <image:title>OST10AAL00 220V Power Supply Option Germany + Spain | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ost10afr00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OST10AFR00 Power Supply Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ost10aic00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OST10AIC00_f978eb7a-1fa0-459d-b3f2-bab25760033e.jpg?v=1759158013</image:loc>
+      <image:title>OST10AIC00 Air Line Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ost10asu00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OST10ASU00 Option Alim Suisse Star | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ost10dis00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OST10DIS00 Differential Circuit Breaker Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ost10feu00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OST10FEU00 Permenant Flashing Light Option | Genuine Haulotte</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cdeliftparts.com/products/haulotte-ost10pht00</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OST10PHT00_ca2cdac1-7796-45c9-8ccc-9c437eff0c9a.jpg?v=1759152964</image:loc>
+      <image:title>OST10PHT00 Work-Lights Option | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-ost10prph1</loc>
-    <lastmod>2026-02-23T13:19:05.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-OST10PRPH1_8a87e796-4c6a-4398-abe0-dde796efe1dc.png?v=1759148237</image:loc>
+      <image:title>OST10PRPH1 Protection | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-osta6aeu00</loc>
-    <lastmod>2026-02-23T13:05:46.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>OSTA6AEU00 Option 220V Voltage | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/p26830-flange-drive-planetary-used-skytrak</loc>
-    <lastmod>2026-02-28T06:28:11.000Z</lastmod>
+    <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/s-l1600.webp?v=1760022665</image:loc>
+      <image:title>P26830 Flange Drive Planetary (Used) | Skytrak</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-p2ap277610</loc>
-    <lastmod>2026-02-23T13:15:36.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-P2AP277610_2fbd2f55-7f5f-4090-a1c1-7440f6df6896.png?v=1759153035</image:loc>
+      <image:title>P2AP277610 Pin | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/p582245dfs</loc>
-    <lastmod>2026-02-23T10:18:44.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/genie_aerial_parts_cde.webp?v=1771833218</image:loc>
+      <image:title>P582245DFS Hydraulic Filter Spin-On | Genuine Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/pay-test</loc>
-    <lastmod>2026-02-20T14:53:19.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-parts-manuals-mob_acbe5265-b087-47c4-929d-c84487c5129e.webp?v=1761871237</image:loc>
+      <image:title>Pay Test</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/pc0478-sensor-tilt-1-9d-jlg</loc>
-    <lastmod>2026-02-20T14:22:04.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/JLG-PC0478-SENSOR-TILT-1-9D_8e98c7ff-e7cf-401f-b145-61049ca435ee.webp?v=1766477084</image:loc>
+      <image:title>PC0478 SENSOR,TILT 1,9D | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-pgfs-43005</loc>
-    <lastmod>2026-02-23T13:16:21.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>PGFS-43005 Linegard 30 Amp Multi-Phase Permanent Series (Splice-In) Gfci | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/ptnspe632-harness-24v-nanosp-plus-jlg</loc>
-    <lastmod>2026-02-20T14:22:07.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/JLG-PTNSPE632-HARNESS-24V-NANOSP-PLUS_728d2222-a203-4b7d-b71e-5d2b734f5c70.webp?v=1766477103</image:loc>
+      <image:title>PTNSPE632 HARNESS,24V NANOSP PLUS | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-ral1006gal</loc>
-    <lastmod>2026-02-23T13:17:05.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>RAL1006GAL Yellow Gallon Paint / Includes Reducer | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-rpecllanfek</loc>
-    <lastmod>2026-02-24T04:23:10.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>RPECLLANFEK Sun Relief Valve | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-rsa20200-1</loc>
-    <lastmod>2026-02-24T04:33:42.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>RSA20200-1 Spark Arrestor (2In) | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/s000123-thrust-bearing-51115-jlg</loc>
-    <lastmod>2026-02-24T19:48:47.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_96786e8e-0aa7-4df0-a0d8-3c4a19d643ec.webp?v=1772537671</image:loc>
+      <image:title>S000123 Thrust Bearing 51115 | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/s000124-bearing-jlg</loc>
-    <lastmod>2026-02-24T20:35:45.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_ff91cec8-4d46-4b6a-b52d-89de9bdcc6d4.webp?v=1772536646</image:loc>
+      <image:title>S000124 Bearing | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/s001491-bearing-jlg</loc>
-    <lastmod>2026-02-24T20:35:38.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_af96058e-035d-48a6-9c71-ef7da8025732.webp?v=1772536648</image:loc>
+      <image:title>S001491 Bearing | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/s001497-bushing-jlg</loc>
-    <lastmod>2026-02-24T19:48:48.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_729eadc4-d4a6-46e9-9411-1abc72bebebb.webp?v=1772537678</image:loc>
+      <image:title>S001497 Bushing | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/s201639-cylinder-jlg</loc>
-    <lastmod>2026-02-24T16:11:37.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_7d462e17-71b9-4aed-b316-866c46b86462.webp?v=1772546270</image:loc>
+      <image:title>S201639 Cylinder | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/sjs7630003</loc>
-    <lastmod>2026-02-21T05:47:26.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/skyjack-aerial-parts-cde.webp?v=1771467055</image:loc>
+      <image:title>s7630003 Air Cleaner Assembly | Skyjack</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-s800040000</loc>
-    <lastmod>2026-02-24T04:36:00.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-S800040000_78995124-c758-4764-a10d-4bb998b683ab.png?v=1759109388</image:loc>
+      <image:title>S800040000 Motor Silentbloc | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-sa22000565</loc>
-    <lastmod>2026-02-23T13:18:38.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>SA22000565 Kit, Mounting (Brackets &amp; Mounts) Engine, Deutz | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/sd0654-cover-battery-charger-jlg</loc>
-    <lastmod>2026-02-24T20:35:22.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_609cd499-cb75-4967-a556-1043c8d204c8.webp?v=1772536512</image:loc>
+      <image:title>SD0654 Cover, Battery Charger | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/se0568-manifold-7-2-valve-assembly-jlg</loc>
-    <lastmod>2026-02-24T20:39:05.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_749b7b15-a0d3-41c7-89b6-370daeb1e2c1.webp?v=1772534459</image:loc>
+      <image:title>SE0568 Manifold, 7-2 Valve Assembly | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/se0741-release-valve-assembly-jlg</loc>
-    <lastmod>2026-02-24T20:39:01.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_cd502d55-d097-4dd1-9667-03a234967554.webp?v=1772534466</image:loc>
+      <image:title>SE0741 Release Valve Assembly | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/se0770-box-lower-control-jlg</loc>
-    <lastmod>2026-02-24T15:35:17.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_ef19b189-edbd-4235-9845-950af92ffefe.webp?v=1772637669</image:loc>
+      <image:title>SE0770 Box, Lower Control | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/se0773-box-upper-control-jlg</loc>
-    <lastmod>2026-02-24T15:35:24.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_08477ae5-2b9a-4963-a35e-8e98ae52d9f4.webp?v=1772637760</image:loc>
+      <image:title>SE0773 Box Upper Control | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/se0775-box-lower-control-jlg</loc>
-    <lastmod>2026-02-24T15:35:26.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_e1aefea0-2e85-4f12-b33c-9d6f355e9fe4.webp?v=1772637755</image:loc>
+      <image:title>SE0775 Box Lower Control | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/se0923-ucb-assembly-t10e-jlg</loc>
-    <lastmod>2026-02-20T14:48:16.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/JLG-SE0923-UCB-ASSEMBLY--T10E_65991391-acb5-488f-b98c-c6c13b443c72.webp?v=1765018824</image:loc>
+      <image:title>SE0923 UCB ASSEMBLY, T10E | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/se1157-cylinder-jib-equipped-jlg</loc>
-    <lastmod>2026-02-24T16:11:31.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_662965f5-5f8b-4622-8121-b04b5f3635a0.webp?v=1772546132</image:loc>
+      <image:title>SE1157 Cylinder, Jib Equipped | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/se1158-cylinder-master-equipped-jlg</loc>
-    <lastmod>2026-02-24T16:11:42.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_36f06bb1-1889-42fb-99a2-a110c8154587.webp?v=1772546171</image:loc>
+      <image:title>SE1158 Cylinder, Master Equipped | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/se1201-elec-assembly-upper-control-box-jlg</loc>
-    <lastmod>2026-01-27T02:41:01.000Z</lastmod>
+    <lastmod>2026-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/SE1201.jpg?v=1758865156</image:loc>
+      <image:title>SE1201 Elec Assembly, Upper Control Box | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-set2421302640</loc>
-    <lastmod>2026-02-23T13:07:34.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>SET2421302640 Set, Pressure Gauge 0-600 Bar, Port Hose, Fittings | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/st1326-powerbridge-jlg</loc>
-    <lastmod>2026-02-20T14:21:53.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/JLG-ST1326-POWERBRIDGE_e6515bfb-7e65-4f49-aae4-f345aa79fab4.webp?v=1766477027</image:loc>
+      <image:title>ST1326 POWERBRIDGE | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/st2288-jib-cylinder-jlg</loc>
-    <lastmod>2026-02-24T16:11:32.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_57a6a0c3-0b2f-4c8a-9235-52f0ba76f179.webp?v=1772546143</image:loc>
+      <image:title>ST2288 Jib Cylinder | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/st2465-master-cylinder-jlg</loc>
-    <lastmod>2026-02-24T16:11:33.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_39d5a8d3-9818-42f1-9b52-ebe8c5093070.webp?v=1772546160</image:loc>
+      <image:title>ST2465 Master Cylinder | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/st2681-cylinder-jib-jlg</loc>
-    <lastmod>2026-02-24T16:11:27.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_920c0125-6bc8-463b-8f36-87c9c34fb264.webp?v=1772546150</image:loc>
+      <image:title>ST2681 Cylinder, Jib | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/st2924-cylinder-jib-jlg</loc>
-    <lastmod>2026-02-24T16:11:27.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_62944d8d-49bc-49d9-9960-9f2167fc78be.webp?v=1772546130</image:loc>
+      <image:title>ST2924 Cylinder, Jib | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/st3138-cylinder-jib-jlg</loc>
-    <lastmod>2026-02-24T16:11:27.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_67885204-6564-4cbd-9d41-c3f3087138aa.webp?v=1772546138</image:loc>
+      <image:title>ST3138 Cylinder, Jib | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/st3498-cylinder-master-jlg</loc>
-    <lastmod>2026-02-24T16:11:27.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_2a238f90-cb1e-4376-87f6-c5f082f9424f.webp?v=1772546173</image:loc>
+      <image:title>ST3498 Cylinder, Master | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/st3500-cylinder-jib-jlg</loc>
-    <lastmod>2026-02-24T16:11:27.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_2fb956f0-a32f-4339-afb6-9256189129d3.webp?v=1772546140</image:loc>
+      <image:title>ST3500 Cylinder, Jib | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/st3624-power-track-circular-jlg</loc>
-    <lastmod>2026-02-20T14:21:49.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/JLG-ST3624-POWER-TRACK-CIRCULAR_fc1d3c39-61f8-4ddb-ab0b-96beaa920e9d.webp?v=1766477001</image:loc>
+      <image:title>ST3624 POWER TRACK,CIRCULAR | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/gnt108663</loc>
-    <lastmod>2026-02-24T21:33:09.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/genie-aerial-work-platform-default_e190e4ec-d525-422f-bb80-b1e5ba783377.webp?v=1772547953</image:loc>
+      <image:title>T108663 Motor, Drive | Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/gnt108663gt</loc>
-    <lastmod>2026-02-24T21:32:40.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/genie-aerial-work-platform-default_a24200b3-d0d9-4fe5-bb6c-7bf80a69bf31.webp?v=1772547956</image:loc>
+      <image:title>T108663GT Motor, Drive | Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/gnt110958</loc>
-    <lastmod>2026-02-24T16:11:50.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/genie-aerial-work-platform-default_bc0bcd22-677d-40eb-bb68-44f354a2159a.webp?v=1772549393</image:loc>
+      <image:title>T110958 Cylinder Tilt GTH8XX GTH644 | Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/gnt110958gt</loc>
-    <lastmod>2026-02-24T16:11:50.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/genie-aerial-work-platform-default_f9595a9d-d548-4f56-833d-30117dca3ead.webp?v=1772549396</image:loc>
+      <image:title>T110958GT Cylinder Tilt GTH8ZZ GTH644 | Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/genie-t111609gt-seal-shaft</loc>
-    <lastmod>2026-02-23T11:38:43.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/GENIE-T111609GT_2cc6fd9c-9172-437d-88bf-eabd6c774a5d.png?v=1759203258</image:loc>
+      <image:title>T111609GT Seal Shaft | Genuine Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/gnt112018</loc>
-    <lastmod>2026-02-24T15:35:38.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/genie-aerial-work-platform-default_93436b7f-40c0-4958-a494-6cf305b3f555.webp?v=1772549522</image:loc>
+      <image:title>T112018 Control Module | Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/gnt112018gt</loc>
-    <lastmod>2026-02-24T15:35:38.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/genie-aerial-work-platform-default_10121987-9083-4b7b-91ed-02ae44f3d056.webp?v=1772549520</image:loc>
+      <image:title>T112018GT Control Module | Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/t113283-driveshaft-genie</loc>
-    <lastmod>2026-02-23T11:34:37.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/GNT113283.webp?v=1759210562</image:loc>
+      <image:title>T113283 Driveshaft | Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/t113283gt-driveshaft-genie</loc>
-    <lastmod>2026-02-23T11:42:47.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/GNT113283_765dc7a9-fe26-4eed-af36-3cac92af8733.webp?v=1759199903</image:loc>
+      <image:title>T113283GT Driveshaft | Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/genie-t114016gt-1480-flange-yoke</loc>
-    <lastmod>2026-02-24T01:14:52.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/genie-aerial-work-platform-default_ccf19720-87fc-425b-9065-afe5c642a118.webp?v=1772580684</image:loc>
+      <image:title>T114016GT 1480 Flange Yoke | Genuine Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/gnt114019gt</loc>
-    <lastmod>2026-02-23T11:39:46.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/T114019.jpg?v=1759203088</image:loc>
+      <image:title>T114019GT Kit, Driveshaft | Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/t114178gt</loc>
-    <lastmod>2026-02-23T11:40:25.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/GENIE-T114178GT_06217196-ce42-470b-ba0a-762fe2e755ba.png?v=1759202979</image:loc>
+      <image:title>T114178GT Platform Control Bracket Assembly Gr/Grc | Genuine Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/gnt114678gt</loc>
-    <lastmod>2026-02-23T11:39:46.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/T114678_3db490b6-0b3a-4a81-8e8d-783586a0b2ba.jpg?v=1759203089</image:loc>
+      <image:title>T114678GT Solenoid, Shutdown | Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-t2427002420</loc>
-    <lastmod>2026-02-23T13:10:29.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-T2427002420_55c42367-73a1-4039-a01e-2ac915c323da.png?v=1759154430</image:loc>
+      <image:title>T2427002420 Cartridge | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-t2427002670</loc>
-    <lastmod>2026-02-24T04:27:02.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-T2427002670_2b5cb922-6370-4bc2-8883-d04693ed63ea.png?v=1759124486</image:loc>
+      <image:title>T2427002670 Cartridge | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-t2440312680</loc>
-    <lastmod>2026-02-23T13:06:22.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Haulotte-T2440312680_d9333898-a49b-4286-b084-1f6134efab62.png?v=1759155559</image:loc>
+      <image:title>T2440312680 Forward/Reverse. Switch | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/tc12x33hd</loc>
-    <lastmod>2026-02-23T11:38:38.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/TC12X33HD.jpg?v=1759203271</image:loc>
+      <image:title>TC12X33HD Cover -Tire 12X33 Set Of 4 Ballistic Material | Genuine Genie</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/haulotte-thqc32030wl</loc>
-    <lastmod>2026-02-24T04:23:40.000Z</lastmod>
+    <lastmod>2026-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/haulotte-aerial-genuine-parts.webp?v=1770791237</image:loc>
+      <image:title>THQC32030WL Ge 3 Pole 30A Breakers W | Genuine Haulotte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-27tmh-12v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:22.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_27TMH.jpg?v=1767078263</image:loc>
+      <image:title>Trojan 27TMH  12V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-27tmx-12v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:22.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_27TMX.jpg?v=1767078264</image:loc>
+      <image:title>Trojan 27TMX  12V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-30xhs-12v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:23.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_30XHS.jpg?v=1767078267</image:loc>
+      <image:title>Trojan 30XHS 12V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-j305g-ac-6v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:25.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/trojan-J305G-AC-Flooded-6V-615__415-L.webp?v=1767156311</image:loc>
+      <image:title>Trojan J305G-AC 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-j305hg-ac-6v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:25.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Trojan-J305HG-AC-Flooded-6V-615__415-L_07909f87-c96e-4d12-bafc-3c0c4363a67a.webp?v=1767156941</image:loc>
+      <image:title>Trojan J305HG-AC 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-j305p-ac-6v-deep-cycle-battery-flooded-lead-acid-copy</loc>
-    <lastmod>2026-02-20T13:53:25.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_J305P-AC.jpg?v=1767078269</image:loc>
+      <image:title>Trojan J305P-AC 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-l16g-ac-6v-deep-cycle-battery-flooded-lead-acid-copy</loc>
-    <lastmod>2026-02-20T13:53:25.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Trojan-L16G-AC-Flooded-6V-615__415-L.webp?v=1767157128</image:loc>
+      <image:title>Trojan L16G-AC 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-l16h-ac-6v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:26.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Trojan-L16H-AC-Flooded-6V-615__415-L.webp?v=1767160437</image:loc>
+      <image:title>Trojan L16H-AC 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-l16p-ac-6v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:26.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_L16P-AC.jpg?v=1767078269</image:loc>
+      <image:title>Trojan L16P-AC 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t-105-6v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:22.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_T105.jpg?v=1767078268</image:loc>
+      <image:title>Trojan T-105 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t-105-plus-6v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:23.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_T-105Plus.jpg?v=1767078232</image:loc>
+      <image:title>Trojan T-105 PLUS 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t-125-6v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:23.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_T125.jpg?v=1767078270</image:loc>
+      <image:title>Trojan T-125 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t-125-plus-6v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:23.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_T125Plus.jpg?v=1767078268</image:loc>
+      <image:title>Trojan T-125 PLUS 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t-1275-12v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:24.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_T1275.jpg?v=1767078272</image:loc>
+      <image:title>Trojan T-1275 12V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t-1275-plus-12v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:24.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_T-1275Plus.jpg?v=1767078272</image:loc>
+      <image:title>Trojan T-1275 PLUS 12V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t-145-6v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:24.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_T145.jpg?v=1767078270</image:loc>
+      <image:title>Trojan T-145 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t-145-plus-6v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:23.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_T145Plus.jpg?v=1767078272</image:loc>
+      <image:title>Trojan T-145 PLUS 6V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t-875-8v-deep-cycle-battery-flooded-lead-acid</loc>
-    <lastmod>2026-02-20T13:53:24.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/img_T875.jpg?v=1767078272</image:loc>
+      <image:title>Trojan T-875 8V Deep Cycle Battery, Flooded Lead Acid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t105-aes-6v-agm-battery</loc>
-    <lastmod>2026-02-20T13:53:26.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Trojan-T-105-AES-6V-615x415-L.webp?v=1767162498</image:loc>
+      <image:title>Trojan T105-AES 6V AGM Battery</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t125-aes-6v-agm-battery</loc>
-    <lastmod>2026-02-20T13:53:26.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Trojan-T-105-AES-6V-615x415-L.webp?v=1767162498</image:loc>
+      <image:title>Trojan T125-AES 6V AGM Battery</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t1275-aes-12v-agm-battery</loc>
-    <lastmod>2026-02-20T13:53:27.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Trojan-T-1275-AES-12V-615x415-L_f9bde968-5032-42df-b785-c047314a7781.webp?v=1767165624</image:loc>
+      <image:title>Trojan T1275-AES 12V AGM Battery</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/trojan-t875-aes-8v-agm-battery</loc>
-    <lastmod>2026-02-20T13:53:27.000Z</lastmod>
+    <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/Trojan-T-875-AES-8V-615x415-L.webp?v=1767165313</image:loc>
+      <image:title>Trojan T875-AES 8V AGM Battery</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/us0534-pin-bearing-mount-jlg</loc>
-    <lastmod>2026-02-24T19:48:49.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_b93328a7-0939-47b4-8850-2ec3baa2100d.webp?v=1772537688</image:loc>
+      <image:title>US0534 Pin, Bearing Mount | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/us0543-bearings-support-pin-jlg</loc>
-    <lastmod>2026-02-24T19:48:49.000Z</lastmod>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/jlg-aerial-work-platform-default_3558d721-fc99-4cdc-b4c6-e6b58cfeb4a3.webp?v=1772537691</image:loc>
+      <image:title>US0543 Bearings Support Pin | JLG</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/txv008404</loc>
-    <lastmod>2026-02-28T06:24:34.000Z</lastmod>
+    <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/TXV008404_06da60b5-3db1-41a5-b317-3da9ccc0d697.jpg?v=1760023574</image:loc>
+      <image:title>V008404 Deflector | Terex</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://cdeliftparts.com/products/txv008430</loc>
-    <lastmod>2026-02-28T06:24:35.000Z</lastmod>
+    <lastmod>2026-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/1/0664/1447/7401/files/terex-aerial-work-platform-default_ac0895d5-9241-4c56-a073-cc757e7bcf81.webp?v=1772529833</image:loc>
+      <image:title>V008430 Cone-Bearing | Terex</image:title>
+    </image:image>
   </url>
 </urlset>
